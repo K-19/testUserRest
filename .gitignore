@@ -1,0 +1,4 @@
+# Project exclude paths
+/user-entity/target/
+.idea
+log
